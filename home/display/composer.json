@@ -15,7 +15,7 @@
 	},
 	"autoload": {
         "psr-0": {
-            "Display": "src/"
+            "Home\\Display": "src/"
         }
     }
 }
